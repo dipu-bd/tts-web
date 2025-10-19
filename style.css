@@ -70,11 +70,10 @@ body{
   margin:8px 0;
   padding:10px 12px;
   border-radius:10px;
-  background:white;
   box-shadow:0 1px 0 rgba(15,23,42,.04);
   cursor:pointer;
 }
-/*.reader p:hover{ background:#f8fafc } */
+.reader p:hover{ background:#f8fafc }
 .reader p.active{
   background: var(--primary-weak);
   outline: 2px solid var(--ring);
