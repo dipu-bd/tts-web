@@ -76,7 +76,7 @@ body{
 }
 .reader p:hover{ background:#f8fafc }
 .reader p.active{
-  background: var(--primary-weak);
+  /* background: var(--primary-weak); */
   outline: 2px solid var(--ring);
   outline-offset: 2px;
 }
